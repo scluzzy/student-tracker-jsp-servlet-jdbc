@@ -1,0 +1,10 @@
+Note: To run this project you need to have MySQL database installed and a java IDE with a running server. 
+
+Steps:
+1. Run the database scripts to create a user and load sample data
+   a. sql-scripts/01-create-user.sql
+   b. sql-scripts/02-student-tracker.sql
+
+2. Run the application: 
+   a. Import the root project folder as a porject in IDE.
+   b. Select the root project folder Right-Click, select Run As > Run On Server.
